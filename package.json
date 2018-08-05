@@ -1,0 +1,11 @@
+{
+  "name": "premier_league_analysis",
+  "version": "1.0.0",
+  "description": "Attempt to gather and create analysis of the PL games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chinmay Mokashi",
+  "license": "ISC"
+}
